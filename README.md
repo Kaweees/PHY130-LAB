@@ -4,7 +4,7 @@
 
 # PHY130-LAB
 
-[<img src="assets/img/latex-logo.png" align="right" width="150">](https://github.com/PHY130-LAB)
+[<img src="assets/img/latex-logo.png" align="right" width="150">](https://github.com/Kaweees/PHY130-LAB)
 
 LaTeX template created for my Labs in Physics 130 at CSUDH
 
