@@ -14,6 +14,11 @@ LaTeX template created for my Labs in Physics 130 at CSUDH
    - graphicx
    - biblatex
 
+## Acknowledgment
+
+-   [othneildrew's best readme template](https://github.com/othneildrew/Best-README-Template)
+-   [LaTeX Lab Template Tutorial](https://beaverworks.ll.mit.edu/CMS/bw/bwsi)
+
 [contributors-shield]: https://img.shields.io/github/contributors/Kaweees/PHY130-LAB.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kaweees/PHY130-LAB/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Kaweees/PHY130-LAB.svg?style=for-the-badge
