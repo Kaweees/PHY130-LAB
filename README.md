@@ -16,7 +16,7 @@ LaTeX template created for my Labs in Physics 130 at CSUDH
 
 ## Acknowledgment
 
--   [othneildrew's best readme template](https://github.com/othneildrew/Best-README-Template)
+-   [othneildrew's Best README Template](https://github.com/othneildrew/Best-README-Template)
 -   [LaTeX Lab Template Tutorial](https://www.youtube.com/watch?v=y8y_KIs9JLs)
 
 [contributors-shield]: https://img.shields.io/github/contributors/Kaweees/PHY130-LAB.svg?style=for-the-badge
