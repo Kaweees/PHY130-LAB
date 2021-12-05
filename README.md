@@ -1,6 +1,8 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 # PHY130-LAB
 
@@ -37,3 +39,6 @@ Give this repo a ⭐️ if you found this project helpful!
 [forks-url]: https://github.com/Kaweees/PHY130-LAB/network/members
 [stars-shield]: https://img.shields.io/github/stars/Kaweees/PHY130-LAB.svg?style=for-the-badge
 [stars-url]: https://github.com/Kaweees/PHY130-LAB/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Kaweees/PHY130-LAB.svg?style=for-the-badge
+[issues-url]: https://github.com/Kaweees/PHY130-LAB/issues
+[license-shield]: https://img.shields.io/github/license/Kaweees/PHY130-LAB.svg?style=for-the-badge
