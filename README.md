@@ -10,7 +10,10 @@ LaTeX template created for my Labs in Physics 130 at CSUDH
 
 ### Built With
 
--   LaTeX
+-   LaTeX:
+   - tabu
+   - graphicx
+   - biblatex
 
 [contributors-shield]: https://img.shields.io/github/contributors/Kaweees/PHY130-LAB.svg?style=for-the-badge
 [contributors-url]: https://github.com/Kaweees/PHY130-LAB/graphs/contributors
