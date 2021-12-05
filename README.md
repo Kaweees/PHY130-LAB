@@ -42,3 +42,4 @@ Give this repo a ⭐️ if you found this project helpful!
 [issues-shield]: https://img.shields.io/github/issues/Kaweees/PHY130-LAB.svg?style=for-the-badge
 [issues-url]: https://github.com/Kaweees/PHY130-LAB/issues
 [license-shield]: https://img.shields.io/github/license/Kaweees/PHY130-LAB.svg?style=for-the-badge
+[license-url]: https://github.com/Kaweees/PHY130-LAB/blob/master/LICENSE.txt
