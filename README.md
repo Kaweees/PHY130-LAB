@@ -14,7 +14,19 @@ LaTeX template created for my Labs in Physics 130 at CSUDH
    - graphicx
    - biblatex
 
-## Acknowledgment
+# Contribute
+
+Contributions are always welcome! Please create a PR and include a description of how your PR will improve the overall website and what it does. [Making Contributions to a project guide](https://github.com/firstcontributions/first-contributions).
+
+## License
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License. See `LICENSE.txt` for more information.
+
+## Support Us!
+
+Give this repo a ⭐️ if you found this project helpful!
+
+## Acknowledgments
 
 -   [othneildrew's Best README Template](https://github.com/othneildrew/Best-README-Template)
 -   [LaTeX Lab Template Tutorial](https://www.youtube.com/watch?v=y8y_KIs9JLs)
